@@ -1,2 +1,2 @@
-# engeto.projekt1
-Projekt #1 pro Engeto
+Engeto Kurzovni Projekt #1
+Moje webova stranka
